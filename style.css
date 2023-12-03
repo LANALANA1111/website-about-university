@@ -1,0 +1,56 @@
+body{
+    background-color:darkgray;
+}
+h1{
+    color: blueviolet;
+    background-color: antiquewhite;
+}
+p{
+    color: darkolivegreen;
+    background-color: lavender;
+    font-size: 30px;
+}
+.profile{
+    color: cornflowerblue;
+    background-color:cornsilk;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
+.lana{
+    color: black;
+}
+.home{
+    color: cornflowerblue;
+    background-color: cornsilk;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
+.feed{
+    color: brown;
+}
+ul{
+    color: rgb(226, 43, 205);
+}
+.skills{
+    color: cornflowerblue;
+    background-color: cornsilk;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
+.projects{
+    color: cornflowerblue;
+    background-color: cornsilk;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
+.contact{
+    color: cornflowerblue;
+    background-color: cornsilk;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
